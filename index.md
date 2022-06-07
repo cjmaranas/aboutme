@@ -1,12 +1,13 @@
 ## About CJ
 
-I am a Software Developer.
-I love coffee.
-I adore Harry Potter.
-I enjoy reading books.
-
-A wife to supportive husband.
-A mom to a lovely son.
+I am a Software Developer. <br />
+I love coffee. <br />
+I adore Harry Potter. <br />
+I enjoy reading books. <br /> 
+<br />
+A wife to a supportive husband. <br />
+A mom to a lovely son. <br />
+<br />
 
 ### Work
 
